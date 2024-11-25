@@ -1,6 +1,6 @@
 Hi, I’m @GReaper-DEV
 I’m interested in making websites on my own.
-I’m currently learning Laravel 8, VueJS, jQuery, Smarty Template Engine.
+I’m currently learning Laravel 8, ReactJS, jQuery, Smarty Template Engine.
 I’m looking to collaborate on anything related to what i am learning.
 How to reach me https://www.linkedin.com/in/ioannis-kotsonis/
 
